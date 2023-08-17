@@ -8,25 +8,25 @@
 
         .header-right {
           float: right;
-          margin-top: 10px;
+          /* margin-top: 10px; */
         }
 
-        @-moz-keyframes move-astronaut {
+        /* @-moz-keyframes move-astronaut {
           100% {
-            -moz-transform: translate(-130px, -130px);
+            -moz-transform: translate(-330px, -330px);
           }
         }
 
         @-webkit-keyframes move-astronaut {
           100% {
-            -webkit-transform: translate(-130px, -130px);
+            -webkit-transform: translate(-330px, -330px);
           }
-        }
+        } */
 
         @keyframes move-astronaut {
           100% {
-            -webkit-transform: translate(-130px, -130px);
-            transform: translate(-130px, -130px);
+            /* -webkit-transform: translate(-90px, -130px); */
+            transform: rotate(360deg) translate(100px, 700px);
           }
         }
 
@@ -62,7 +62,7 @@
           /*top: 60%;*/
           /*right: 20%;*/
           will-change: transform;
-          animation: move-astronaut 20s infinite linear both alternate;
+          animation: move-astronaut 10s infinite linear;
         }
 
         #particles,
@@ -361,10 +361,13 @@
         <div id="particles3"></div>
         <div class="header-right">
           <div>
-            <img src="../imgs/planet.png" width="100" height="100" alt="" />
+            <p class="object_astronaut" style="font-size:6em">🌍</p>
+            <!-- <img src="../imgs/planet.png" width="100" height="100" alt="planet" /> -->
           </div>
           <div class="box_astronaut">
-            <img src="../imgs/astronaut.png" alt="" class="object_astronaut" />
+            <p class="object_astronaut" style="font-size:4em">🌕</p>
+            <!-- <p class="object_astronaut" style="font-size:4em">🛰️</p> -->
+            <!-- <img src="../imgs/astronaut.png" alt="astronaut" class="object_astronaut" /> -->
           </div>
         </div>
         <div class="css-typing g-text-center">
