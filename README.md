@@ -7,12 +7,12 @@
           <h1>💻 My Experience in</h1>
           <div style="display:flex;flex-direction: row;flex-wrap: wrap;justify-content: center;">
             <div >
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="font-size: 5rem;" title="HTML5" alt="HTML5" />
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="font-size: 5rem;" title="CSS3" alt="CSS3" />
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="font-size: 5rem;" title="JavaScript" alt="JavaScript" />
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="font-size: 5rem;" title="Bootstrap" alt="Bootstrap" />
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="font-size: 5rem;" title="Tailwind" alt="Tailwind" />
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="font-size: 5rem;" title="Sass" alt="Sass" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="font-size: 5rem;width: 10rem;height: 10rem;" title="HTML5" alt="HTML5" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="font-size: 5rem;width: 10rem;height: 10rem;" title="CSS3" alt="CSS3" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="font-size: 5rem;width: 10rem;height: 10rem;" title="JavaScript" alt="JavaScript" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="font-size: 5rem;width: 10rem;height: 10rem;" title="Bootstrap" alt="Bootstrap" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="font-size: 5rem;width: 10rem;height: 10rem;" title="Tailwind" alt="Tailwind" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="font-size: 5rem;width: 10rem;height: 10rem;" title="Sass" alt="Sass" />
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="font-size: 5rem;width: 10rem;height: 10rem;" title="TypeScript" alt="TypeScript" />
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="font-size: 5rem;width: 10rem;height: 10rem;" title="Angular" alt="Angular" />
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="font-size: 5rem;width: 10rem;height: 10rem;" title="React" alt="React" />
